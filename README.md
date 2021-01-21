@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 Citibike Analysis with Tableau
 
 ## Project Overview
@@ -11,6 +11,7 @@ Data source Citibike data from Citibike website, file saved in CSV format.
 * Checkout Times
 
 Here we see that trip durations follow a bell shaped curve peakign at 5 hours.
+![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Theater_Outcomes-vsLaunch.png)
 
 * Checkout Times by Gender
 
