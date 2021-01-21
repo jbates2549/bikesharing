@@ -20,23 +20,23 @@ This Chart shows that both genders follow similar patterns, but males have more 
 * Weekday Trips by Hour
 
 This heatmap shows peak start times around 8 am and again at 5-6 pm.  This is most likely due to standard working hours for most customers.  The trend is on the weekends is for more rentals in the middle of the day.
-![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/checkout%20times.PNG)
+![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/weekday%20trips%20by%20hour.PNG)
 * Weekday Trips Heatmap by Gender
 
 Here we see similar patterns for both males and females.
-![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/checkout%20times.PNG)
+![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/weekday%20per%20hour%20by%20gender.PNG)
 * Weekly Trips by Gender
 
 This heatmap shows the number of customer trips for both subscribers and casual customers.  We can see that subscribers take more rides during the week while customers utilize the service more on the weekends.
-![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/checkout%20times.PNG)
+![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/user%20trips%20by%20gender%20weekday.PNG)
 * Average Trip Duration by Birth Year
 
 This chart shows that average trip durations rise with younger riders.
-![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/checkout%20times.PNG)
+![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/Trip%20duration%20by%20year.PNG)
 * Top Starting Locations
 
 Here we see that the highest concentration of starts is in the southern end of Manhattan.
-![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/checkout%20times.PNG)
+![image_name](https://github.com/jbates2549/bikesharing/blob/main/pictures/rental%20start.PNG)
 
 
 
