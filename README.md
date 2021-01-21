@@ -7,7 +7,7 @@ Citibike rental data is analyzed using Tableau.  We downloaded a data file from 
 Data source Citibike data from Citibike website, file saved in CSV format.
 
 ## Link to Tableau Dashboard
-[link to dashboard]("https://public.tableau.com/profile/john.bates3632#!/vizhome/NYCCitibike_16111119211630/CitibikeSummary?publish=yes")
+[link to dashboard](https://public.tableau.com/profile/john.bates3632#!/vizhome/NYCCitibike_16111119211630/CitibikeSummary?publish=yes)
 ## Results
 
 * Checkout Times
